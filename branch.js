@@ -1,12 +1,8 @@
 (shopping)=>{
 let hello = 'hello'
-return true
-}
-(userApi)=>{
-    let hello = 'hello'
+if (shopping){
     return true
+}else{
+    return false
 }
-(userProduct)=>{
-    let hello = 'hello'
-    return true
 }
