@@ -8,3 +8,4 @@ if (shopping){
 }
 let addAtMain = 'add'
 let helloAtMain='hello'
+let byeAtMain='bye'
