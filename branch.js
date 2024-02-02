@@ -7,3 +7,4 @@ if (shopping){
 }
 }
 let addAtMain = 'add'
+let helloAtMain='hello'
