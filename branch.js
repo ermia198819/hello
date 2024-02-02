@@ -6,3 +6,4 @@ if (shopping){
     return false
 }
 }
+let addAtMain = 'add'
